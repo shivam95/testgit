@@ -1,3 +1,3 @@
-print "i love python"
+print "i love paris"
 
 print "i love java too"
